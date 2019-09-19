@@ -1,3 +1,4 @@
+
 # a variable is a representation of a memory location
 print(23+45+30)
 print((23+45+30)/2)
