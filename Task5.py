@@ -9,3 +9,14 @@ for i in range(5,10):
 
 print(lst1)
 print(lst2)
+print("firsthalf ",lst1,"\t secondhalf ",lst2)
+
+# tupl = (1,2,3,4,5,6)
+#
+# divider = int(len(tupl)/2)
+#
+# tpll = (tup1[:divider])
+# tpl2 = (tup1[divider:])
+#
+# print(tpl1)
+# print(tpl2)
